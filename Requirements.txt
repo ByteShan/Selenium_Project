@@ -1,0 +1,7 @@
+Open https://tutorialsninja.com/demo/
+Select 2 iPhones
+Take 1 ScreenShot
+Select 1 Laptop
+Select Delivery Date
+Create a Guest account and complete the check out process
+Print the Total price and the confirmation message in the console
